@@ -75,6 +75,10 @@ rosrun comm tf_listener
 #注: 代码中相关依赖已经修改只需要编译即可
 cd ros/src
 
+git clone https://github.com/wjwwood/serial.git
+
+cd serial
+
 make
 
 make install
