@@ -86,6 +86,8 @@ make install
 cd ros
 
 catkin_make -DCATKIN_WHITELIST_PACKAGES="serial"
+
+catkin_make -DCATKIN_WHITELIST_PACKAGES="comm"
 ```
 
 * 启动串口交互节点
