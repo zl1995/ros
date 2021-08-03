@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "/home/zhulei/ros/devel/include/comm/my_msg.h"
   "/home/zhulei/ros/devel/include/comm/turtleMoveAction.h"
   "/home/zhulei/ros/devel/include/comm/turtleMoveActionFeedback.h"
   "/home/zhulei/ros/devel/include/comm/turtleMoveActionGoal.h"

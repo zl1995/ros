@@ -18,9 +18,10 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/zhulei/ros/devel/include"
+  "/home/zhulei/ros/src/comm/include"
+  "/home/zhulei/ros/src/serial/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/home/zhulei/ros/src/comm/include"
   )
 
 # Targets to which this target links.

@@ -1,3 +1,4 @@
+from ._my_msg import *
 from ._turtleMoveAction import *
 from ._turtleMoveActionFeedback import *
 from ._turtleMoveActionGoal import *

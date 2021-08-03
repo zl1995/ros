@@ -79,6 +79,8 @@ turtleMove_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/turtleMove: comm/CMakeFiles/turtleMove.dir/src/turtleMove.cpp.o
 /home/zhulei/ros/devel/lib/comm/turtleMove: comm/CMakeFiles/turtleMove.dir/build.make
+/home/zhulei/ros/devel/lib/comm/turtleMove: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/turtleMove: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/turtleMove: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/turtleMove: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/turtleMove: /opt/ros/noetic/lib/libactionlib.so

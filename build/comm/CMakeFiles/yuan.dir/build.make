@@ -79,6 +79,8 @@ yuan_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/yuan: comm/CMakeFiles/yuan.dir/src/yuan.cpp.o
 /home/zhulei/ros/devel/lib/comm/yuan: comm/CMakeFiles/yuan.dir/build.make
+/home/zhulei/ros/devel/lib/comm/yuan: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/yuan: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/yuan: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/yuan: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/yuan: /opt/ros/noetic/lib/libactionlib.so

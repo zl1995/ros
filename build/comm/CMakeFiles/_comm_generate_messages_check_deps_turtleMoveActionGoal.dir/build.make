@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/zhulei/ros/build
 include comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionGoal.dir/progress.make
 
 comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionGoal:
-	cd /home/zhulei/ros/build/comm && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py comm /home/zhulei/ros/devel/share/comm/msg/turtleMoveActionGoal.msg comm/turtleMoveGoal:std_msgs/Header:actionlib_msgs/GoalID
+	cd /home/zhulei/ros/build/comm && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py comm /home/zhulei/ros/devel/share/comm/msg/turtleMoveActionGoal.msg actionlib_msgs/GoalID:std_msgs/Header:comm/turtleMoveGoal
 
 _comm_generate_messages_check_deps_turtleMoveActionGoal: comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionGoal
 _comm_generate_messages_check_deps_turtleMoveActionGoal: comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionGoal.dir/build.make

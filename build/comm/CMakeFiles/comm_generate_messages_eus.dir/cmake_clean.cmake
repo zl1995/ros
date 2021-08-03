@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "/home/zhulei/ros/devel/share/roseus/ros/comm/manifest.l"
+  "/home/zhulei/ros/devel/share/roseus/ros/comm/msg/my_msg.l"
   "/home/zhulei/ros/devel/share/roseus/ros/comm/msg/turtleMoveAction.l"
   "/home/zhulei/ros/devel/share/roseus/ros/comm/msg/turtleMoveActionFeedback.l"
   "/home/zhulei/ros/devel/share/roseus/ros/comm/msg/turtleMoveActionGoal.l"

@@ -79,6 +79,8 @@ callBackYuan_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/callBackYuan: comm/CMakeFiles/callBackYuan.dir/src/callBackYuan.cpp.o
 /home/zhulei/ros/devel/lib/comm/callBackYuan: comm/CMakeFiles/callBackYuan.dir/build.make
+/home/zhulei/ros/devel/lib/comm/callBackYuan: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/callBackYuan: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/callBackYuan: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/callBackYuan: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/callBackYuan: /opt/ros/noetic/lib/libactionlib.so

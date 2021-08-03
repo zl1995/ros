@@ -64,4 +64,29 @@ rosrun comm odometry_publisher
 rosrun comm tf_listener
 ```
 
-#### 与STM32通信(待完善)
+#### 与STM32通信
+
+```text
+由于Ubuntu20的ROS noetic版本不自带串口(serial)连接包,需要自己编译。
+```
+
+* 编译serial
+```bash
+#注: 代码中相关依赖已经修改只需要编译即可
+cd ros/src
+
+make
+
+make install
+
+cd ros
+
+catkin_make -DCATKIN_WHITELIST_PACKAGES="serial"
+```
+
+* 启动串口交互节点
+
+```bash
+#注: 其中自定义消息格式
+rosrun comm serial_nodess
+```

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "/home/zhulei/ros/devel/share/gennodejs/ros/comm/msg/my_msg.js"
   "/home/zhulei/ros/devel/share/gennodejs/ros/comm/msg/turtleMoveAction.js"
   "/home/zhulei/ros/devel/share/gennodejs/ros/comm/msg/turtleMoveActionFeedback.js"
   "/home/zhulei/ros/devel/share/gennodejs/ros/comm/msg/turtleMoveActionGoal.js"

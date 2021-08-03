@@ -1,2 +1,2 @@
-beginner_tutorials:comm
+beginner_tutorials:comm:serial
 -DCATKIN_DEVEL_PREFIX=/home/zhulei/ros/devel -DCMAKE_INSTALL_PREFIX=/home/zhulei/ros/install -G Unix Makefiles

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "/home/zhulei/ros/devel/lib/python3/dist-packages/comm/msg/__init__.py"
+  "/home/zhulei/ros/devel/lib/python3/dist-packages/comm/msg/_my_msg.py"
   "/home/zhulei/ros/devel/lib/python3/dist-packages/comm/msg/_turtleMoveAction.py"
   "/home/zhulei/ros/devel/lib/python3/dist-packages/comm/msg/_turtleMoveActionFeedback.py"
   "/home/zhulei/ros/devel/lib/python3/dist-packages/comm/msg/_turtleMoveActionGoal.py"

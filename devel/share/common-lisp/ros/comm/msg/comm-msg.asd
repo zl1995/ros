@@ -6,6 +6,8 @@
                :std_msgs-msg
 )
   :components ((:file "_package")
+    (:file "my_msg" :depends-on ("_package_my_msg"))
+    (:file "_package_my_msg" :depends-on ("_package"))
     (:file "turtleMoveAction" :depends-on ("_package_turtleMoveAction"))
     (:file "_package_turtleMoveAction" :depends-on ("_package"))
     (:file "turtleMoveActionFeedback" :depends-on ("_package_turtleMoveActionFeedback"))

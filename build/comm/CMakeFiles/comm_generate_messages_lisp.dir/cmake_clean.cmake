@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "/home/zhulei/ros/devel/share/common-lisp/ros/comm/msg/my_msg.lisp"
   "/home/zhulei/ros/devel/share/common-lisp/ros/comm/msg/turtleMoveAction.lisp"
   "/home/zhulei/ros/devel/share/common-lisp/ros/comm/msg/turtleMoveActionFeedback.lisp"
   "/home/zhulei/ros/devel/share/common-lisp/ros/comm/msg/turtleMoveActionGoal.lisp"

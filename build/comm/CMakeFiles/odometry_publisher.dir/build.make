@@ -79,6 +79,8 @@ odometry_publisher_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/odometry_publisher: comm/CMakeFiles/odometry_publisher.dir/src/odometry_publisher.cpp.o
 /home/zhulei/ros/devel/lib/comm/odometry_publisher: comm/CMakeFiles/odometry_publisher.dir/build.make
+/home/zhulei/ros/devel/lib/comm/odometry_publisher: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/odometry_publisher: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/odometry_publisher: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/odometry_publisher: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/odometry_publisher: /opt/ros/noetic/lib/libactionlib.so

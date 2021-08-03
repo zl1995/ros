@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial-test-timer.dir/unit/unix_timer_tests.cc.o  -o /home/zhulei/ros/devel/lib/serial/serial-test-timer   -L/home/zhulei/ros/build/gtest  -Wl,-rpath,/home/zhulei/ros/build/gtest:/home/zhulei/ros/build/gtest/lib:/home/zhulei/ros/devel/lib ../../gtest/lib/libgtest.so /home/zhulei/ros/devel/lib/libserial.so -lpthread -lrt -lpthread 

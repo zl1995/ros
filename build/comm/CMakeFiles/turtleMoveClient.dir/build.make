@@ -79,6 +79,8 @@ turtleMoveClient_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/turtleMoveClient: comm/CMakeFiles/turtleMoveClient.dir/src/turtleMoveClient.cpp.o
 /home/zhulei/ros/devel/lib/comm/turtleMoveClient: comm/CMakeFiles/turtleMoveClient.dir/build.make
+/home/zhulei/ros/devel/lib/comm/turtleMoveClient: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/turtleMoveClient: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/turtleMoveClient: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/turtleMoveClient: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/turtleMoveClient: /opt/ros/noetic/lib/libactionlib.so

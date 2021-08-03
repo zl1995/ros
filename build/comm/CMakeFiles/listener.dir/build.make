@@ -79,6 +79,8 @@ listener_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/listener: comm/CMakeFiles/listener.dir/src/listener.cpp.o
 /home/zhulei/ros/devel/lib/comm/listener: comm/CMakeFiles/listener.dir/build.make
+/home/zhulei/ros/devel/lib/comm/listener: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/listener: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/listener: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/listener: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/listener: /opt/ros/noetic/lib/libactionlib.so

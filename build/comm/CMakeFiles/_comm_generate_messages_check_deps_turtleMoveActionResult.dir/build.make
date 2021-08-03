@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/zhulei/ros/build
 include comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionResult.dir/progress.make
 
 comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionResult:
-	cd /home/zhulei/ros/build/comm && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py comm /home/zhulei/ros/devel/share/comm/msg/turtleMoveActionResult.msg comm/turtleMoveResult:actionlib_msgs/GoalID:std_msgs/Header:actionlib_msgs/GoalStatus
+	cd /home/zhulei/ros/build/comm && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py comm /home/zhulei/ros/devel/share/comm/msg/turtleMoveActionResult.msg actionlib_msgs/GoalID:comm/turtleMoveResult:actionlib_msgs/GoalStatus:std_msgs/Header
 
 _comm_generate_messages_check_deps_turtleMoveActionResult: comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionResult
 _comm_generate_messages_check_deps_turtleMoveActionResult: comm/CMakeFiles/_comm_generate_messages_check_deps_turtleMoveActionResult.dir/build.make

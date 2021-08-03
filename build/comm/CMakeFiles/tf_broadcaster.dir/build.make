@@ -79,6 +79,8 @@ tf_broadcaster_EXTERNAL_OBJECTS =
 
 /home/zhulei/ros/devel/lib/comm/tf_broadcaster: comm/CMakeFiles/tf_broadcaster.dir/src/tf_broadcaster.cpp.o
 /home/zhulei/ros/devel/lib/comm/tf_broadcaster: comm/CMakeFiles/tf_broadcaster.dir/build.make
+/home/zhulei/ros/devel/lib/comm/tf_broadcaster: /home/zhulei/ros/devel/lib/libserial.so
+/home/zhulei/ros/devel/lib/comm/tf_broadcaster: /usr/lib/x86_64-linux-gnu/librt.so
 /home/zhulei/ros/devel/lib/comm/tf_broadcaster: /opt/ros/noetic/lib/libtf.so
 /home/zhulei/ros/devel/lib/comm/tf_broadcaster: /opt/ros/noetic/lib/libtf2_ros.so
 /home/zhulei/ros/devel/lib/comm/tf_broadcaster: /opt/ros/noetic/lib/libactionlib.so

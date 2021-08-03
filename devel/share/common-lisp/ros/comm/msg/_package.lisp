@@ -1,6 +1,8 @@
 (cl:defpackage comm-msg
   (:use )
   (:export
+   "<MY_MSG>"
+   "MY_MSG"
    "<TURTLEMOVEACTION>"
    "TURTLEMOVEACTION"
    "<TURTLEMOVEACTIONFEEDBACK>"
